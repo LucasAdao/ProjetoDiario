@@ -2,6 +2,6 @@
 <p>O objetivo é abtrair todo dia uma ideia usando Java!</p>
 
 ## Lista
-<ul>
+<ol>
   <li>Sucess!</li>
-</ul>
+</ol>
